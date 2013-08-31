@@ -422,9 +422,9 @@ sub ProviderName { return shift->{ProviderName}; }
 
 =head1 SOURCE CODE
 
-This module is a part of a github repository:
+This module has a repository on github. Pull requests are welcome.
 
-  http://github.com/mannih/cpan
+  https://github.com/mannih/Google-SAML-Request/
 
 =head1 AUTHOR
 

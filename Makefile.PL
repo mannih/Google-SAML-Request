@@ -10,7 +10,7 @@ WriteMakefile(
     VERSION_FROM        => 'lib/Google/SAML/Request.pm',
     ABSTRACT_FROM       => 'lib/Google/SAML/Request.pm',
     PL_FILES            => {},
-    PREREQ_PM           => { 
+    PREREQ_PM           => {
             'URI::Escape'     => 0,
             'MIME::Base64'    => 0,
             'Compress::Zlib'  => 0,
@@ -21,16 +21,16 @@ WriteMakefile(
             'Test::More'      => 0,
             'Test::Exception' => 0,
     },
-    dist                => { 
-            COMPRESS => 'gzip -9f', 
-            SUFFIX => 'gz', 
+    dist                => {
+            COMPRESS => 'gzip -9f',
+            SUFFIX => 'gz',
         },
-    clean               => { 
-            FILES => 'Google-SAML-Request-*' 
+    clean               => {
+            FILES => 'Google-SAML-Request-*'
         },
     META_MERGE          => {
             resources => {
-                repository =>  'http://github.com/mannih/cpan/tree/master/Google-SAML-Request/'
+                repository =>  'http://github.com/mannih/Google-SAML-Request/'
             }
     },
 );
