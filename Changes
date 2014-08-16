@@ -1,6 +1,8 @@
 Revision history for Perl module Google::SAML::Request
 
 {{$NEXT}}
+
+0.05 2014-08-16T21:29:30Z
     - This distribution is now Minilla-managed. No code changes
 
 0.02 Thu Jun 5

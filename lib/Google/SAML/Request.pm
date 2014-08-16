@@ -15,7 +15,7 @@ Google::SAML::Request - Create or parse Google's SAML requests
 
 =head1 VERSION
 
-You are currently reading the documentation for version 0.04
+You are currently reading the documentation for version 0.05
 
 =head1 DESCRIPTION
 
@@ -105,7 +105,7 @@ use XML::Simple;
 use URI::Escape;
 
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 
 =head2 new

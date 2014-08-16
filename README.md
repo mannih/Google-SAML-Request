@@ -4,7 +4,7 @@ Google::SAML::Request - Create or parse Google's SAML requests
 
 # VERSION
 
-You are currently reading the documentation for version 0.04
+You are currently reading the documentation for version 0.05
 
 # DESCRIPTION
 

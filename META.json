@@ -71,9 +71,10 @@
          "web" : "https://github.com//mannih/Google-SAML-Request"
       }
    },
-   "version" : "0.04",
+   "version" : "0.05",
    "x_contributors" : [
       "manni <manni@5c52eb61-1380-4012-85c8-26fb47f1eac4>",
-      "Manni Heumann <heumann@strato-rz.de>"
+      "Manni Heumann <heumann@strato-rz.de>",
+      "Manni Heumann <github@lxxi.org>"
    ]
 }
